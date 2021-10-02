@@ -6,4 +6,10 @@ Ludo game developed in java and this is to illustrate canvas in android with thr
 
 This is 2D game developed for a simple stat of game development in android studio !
 
+# Start view
+
 ![alt text](https://github.com/sudhanshuGt/ludo_game/blob/master/app/src/main/res/drawable/ludostart.jpg?raw=true)
+
+# Game View
+![alt text](https://github.com/sudhanshuGt/ludo_game/blob/master/app/src/main/res/drawable/ludoactivity.jpg?raw=true)
+
